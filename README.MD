@@ -1,3 +1,7 @@
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=TonaSmith/HowToPlay-Sharelist&type=date&legend=top-left)](https://www.star-history.com/#TonaSmith/HowToPlay-Sharelist&type=date&legend=top-left)
+
 # Ⅰ、// 电脑端安装（WIN）
 
 ## 一、环境搭建
